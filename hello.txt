@@ -6,3 +6,6 @@ hello github Desktop!!
 a branch created 
 a branch 1st edited
 a branch new 1st edited
+a branch new 2nd edited
+a branch new 3rd edited
+a branch new 4th edited
