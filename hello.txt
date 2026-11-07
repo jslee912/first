@@ -5,5 +5,4 @@ hello github Desktop!!
 3rd update
 a branch created 
 a branch 1st edited
-a branch 2nd edited
-a branch 3rd edited
+a branch new 1st edited
