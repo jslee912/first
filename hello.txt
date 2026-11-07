@@ -4,3 +4,6 @@ hello github Desktop!!
 2nd update
 3rd update
 a branch created 
+a branch 1st edited
+a branch 2nd edited
+a branch 3rd edited
